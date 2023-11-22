@@ -1,0 +1,353 @@
+[
+    {
+      "review title": "Great Addition to My Kitchen",
+      "review text": "This blender is powerful and easy to clean. It's become a staple in my daily routine.",
+      "review display": "SmoothieLover123",
+      "review date": "2023-11-16",
+      "rating": 5
+    },
+    {
+      "review title": "Disappointing Quality",
+      "review text": "The material used feels cheap. Not as durable as I expected.",
+      "review display": "MaterialGuy22",
+      "review date": "2023-11-15",
+      "rating": 2
+    },
+    {
+      "review title": "Life-Changing Device",
+      "review text": "This gadget simplifies tasks. I wish I'd bought it sooner!",
+      "review display": "EfficiencyFanatic77",
+      "review date": "2023-11-14",
+      "rating": 4
+    },
+    {
+      "review title": "Average Product, Good Price",
+      "review text": "It's decent for its cost. Can't expect much more at this price point.",
+      "review display": "BudgetBuyer789",
+      "review date": "2023-11-13",
+      "rating": 3
+    },
+    {
+      "review title": "Superb Quality",
+      "review text": "Top-notch build and performance. Worth every penny.",
+      "review display": "QualityMatters456",
+      "review date": "2023-11-12",
+      "rating": 5
+    },
+    {
+      "review title": "Not What I Expected",
+      "review text": "Didn't meet my needs. The description was misleading.",
+      "review display": "MisledShopper321",
+      "review date": "2023-11-11",
+      "rating": 2
+    },
+    {
+      "review title": "Highly Recommend!",
+      "review text": "This product exceeded my expectations. It's a game-changer.",
+      "review display": "HappyBuyer2023",
+      "review date": "2023-11-10",
+      "rating": 5
+    },
+    {
+      "review title": "Poor Performance",
+      "review text": "Doesn't work as advertised. Disappointing experience overall.",
+      "review display": "TechUser999",
+      "review date": "2023-11-09",
+      "rating": 1
+    },
+    {
+      "review title": "Great Value for Money",
+      "review text": "Affordable and reliable. It gets the job done without breaking the bank.",
+      "review display": "ValueSeeker55",
+      "review date": "2023-11-08",
+      "rating": 4
+    },
+    {
+      "review title": "Sturdy and Dependable",
+      "review text": "This product feels durable and trustworthy. I'm impressed!",
+      "review display": "ReliableBuyer789",
+      "review date": "2023-11-07",
+      "rating": 5
+    },
+  {
+    "review title": "Versatile and Easy to Use",
+    "review text": "This product has multiple functions and is incredibly user-friendly. Highly recommended!",
+    "review display": "MultiTasker88",
+    "review date": "2023-11-06",
+    "rating": 4
+  },
+  {
+    "review title": "Not Impressed",
+    "review text": "Expected better quality for the price. Disappointing purchase.",
+    "review display": "QualityMatters22",
+    "review date": "2023-11-05",
+    "rating": 2
+  },
+  {
+    "review title": "Game-Changer!",
+    "review text": "Revolutionary design. I can't imagine my life without it now.",
+    "review display": "Innovator2023",
+    "review date": "2023-11-04",
+    "rating": 5
+  },
+  {
+    "review title": "Functional but Flawed",
+    "review text": "Gets the job done, but has some design flaws. Could be better.",
+    "review display": "PracticalUser789",
+    "review date": "2023-11-03",
+    "rating": 3
+  },
+  {
+    "review title": "Quality Product",
+    "review text": "Excellent craftsmanship and durability. Definitely worth the investment.",
+    "review display": "CraftsmanshipFan101",
+    "review date": "2023-11-02",
+    "rating": 5
+  },
+  {
+    "review title": "Not Worth the Hype",
+    "review text": "Overrated product. Didn't live up to the expectations.",
+    "review display": "HypeDisappointed123",
+    "review date": "2023-11-01",
+    "rating": 2
+  },
+  {
+    "review title": "Satisfied Customer",
+    "review text": "Does exactly what it promises. No complaints!",
+    "review display": "HappyCustomer246",
+    "review date": "2023-10-31",
+    "rating": 4
+  },
+  {
+    "review title": "Poor Durability",
+    "review text": "Broke easily. Not built to last.",
+    "review display": "FragileItemReviewer",
+    "review date": "2023-10-30",
+    "rating": 1
+  },
+  {
+    "review title": "Impressive Innovation",
+    "review text": "This product introduces a new way of doing things. It's revolutionary!",
+    "review display": "InnovationSeeker555",
+    "review date": "2023-10-29",
+    "rating": 5
+  },
+  {
+    "review title": "Decent for the Price",
+    "review text": "Considering the cost, it's a reasonable purchase. Don't expect too much.",
+    "review display": "BudgetConsciousShopper",
+    "review date": "2023-10-28",
+    "rating": 3
+  },
+  {
+    "review title": "Versatile and Easy to Use",
+    "review text": "This product has multiple functions and is incredibly user-friendly. Highly recommended!",
+    "review display": "MultiTasker88",
+    "review date": "2023-11-06",
+    "rating": 4
+  },
+  {
+    "review title": "Not Impressed",
+    "review text": "Expected better quality for the price. Disappointing purchase.",
+    "review display": "QualityMatters22",
+    "review date": "2023-11-05",
+    "rating": 2
+  },
+  {
+    "review title": "Game-Changer!",
+    "review text": "Revolutionary design. I can't imagine my life without it now.",
+    "review display": "Innovator2023",
+    "review date": "2023-11-04",
+    "rating": 5
+  },
+  {
+    "review title": "Functional but Flawed",
+    "review text": "Gets the job done, but has some design flaws. Could be better.",
+    "review display": "PracticalUser789",
+    "review date": "2023-11-03",
+    "rating": 3
+  },
+  {
+    "review title": "Quality Product",
+    "review text": "Excellent craftsmanship and durability. Definitely worth the investment.",
+    "review display": "CraftsmanshipFan101",
+    "review date": "2023-11-02",
+    "rating": 5
+  },
+  {
+    "review title": "Not Worth the Hype",
+    "review text": "Overrated product. Didn't live up to the expectations.",
+    "review display": "HypeDisappointed123",
+    "review date": "2023-11-01",
+    "rating": 2
+  },
+  {
+    "review title": "Satisfied Customer",
+    "review text": "Does exactly what it promises. No complaints!",
+    "review display": "HappyCustomer246",
+    "review date": "2023-10-31",
+    "rating": 4
+  },
+  {
+    "review title": "Poor Durability",
+    "review text": "Broke easily. Not built to last.",
+    "review display": "FragileItemReviewer",
+    "review date": "2023-10-30",
+    "rating": 1
+  },
+  {
+    "review title": "Impressive Innovation",
+    "review text": "This product introduces a new way of doing things. It's revolutionary!",
+    "review display": "InnovationSeeker555",
+    "review date": "2023-10-29",
+    "rating": 5
+  },
+  {
+    "review title": "Decent for the Price",
+    "review text": "Considering the cost, it's a reasonable purchase. Don't expect too much.",
+    "review display": "BudgetConsciousShopper",
+    "review date": "2023-10-28",
+    "rating": 3
+  },
+  {
+    "review title": "Works like a Charm",
+    "review text": "I'm impressed with how well this product performs. It's a game-changer!",
+    "review display": "ImpressedUser567",
+    "review date": "2023-10-27",
+    "rating": 5
+  },
+  {
+    "review title": "Disappointing Quality",
+    "review text": "The build feels flimsy. Not what I expected for the price.",
+    "review display": "QualityConscious22",
+    "review date": "2023-10-26",
+    "rating": 2
+  },
+  {
+    "review title": "Good Product, Great Value",
+    "review text": "Does the job well and is reasonably priced. A good buy overall.",
+    "review display": "ValueFinder2023",
+    "review date": "2023-10-25",
+    "rating": 4
+  },
+  {
+    "review title": "Mediocre Performance",
+    "review text": "It's okay, but it could be better. Doesn't meet my expectations.",
+    "review display": "AverageUser789",
+    "review date": "2023-10-24",
+    "rating": 3
+  },
+  {
+    "review title": "Outstanding Quality",
+    "review text": "Exceptional build and performance. Definitely worth every penny.",
+    "review display": "QualityMatters123",
+    "review date": "2023-10-23",
+    "rating": 5
+  },
+  {
+    "review title": "Not What I Expected",
+    "review text": "Disappointed with the functionality. Doesn't live up to the description.",
+    "review display": "ExpectationSeeker321",
+    "review date": "2023-10-22",
+    "rating": 2
+  },
+  {
+    "review title": "Satisfactory Purchase",
+    "review text": "Meets my needs. No major complaints.",
+    "review display": "ContentBuyer2468",
+    "review date": "2023-10-21",
+    "rating": 4
+  },
+  {
+    "review title": "Fragile Build",
+    "review text": "Not very sturdy. Handle with care.",
+    "review display": "HandleWithCareReviewer",
+    "review date": "2023-10-20",
+    "rating": 2
+  },
+  {
+    "review title": "Innovative Design",
+    "review text": "This product offers a fresh take on functionality. Impressive!",
+    "review display": "InnovationEnthusiast555",
+    "review date": "2023-10-19",
+    "rating": 5
+  },
+  {
+    "review title": "Decent for the Price",
+    "review text": "Considering the cost, it's a fair purchase. Don't expect miracles.",
+    "review display": "BudgetBuyer789",
+    "review date": "2023-10-18",
+    "rating": 3
+  },
+  {
+    "review title": "Exceptional Product!",
+    "review text": "This product is fantastic! It's exceeded my expectations in every way.",
+    "review display": "HappyBuyer123",
+    "review date": "2023-10-17",
+    "rating": 5
+  },
+  {
+    "review title": "Not Durable",
+    "review text": "Broke after a few uses. Disappointed with the durability.",
+    "review display": "DurabilityConcerned22",
+    "review date": "2023-10-16",
+    "rating": 2
+  },
+  {
+    "review title": "Impressive Value",
+    "review text": "Great quality for the price. I'm pleasantly surprised!",
+    "review display": "ValueHunter2023",
+    "review date": "2023-10-15",
+    "rating": 4
+  },
+  {
+    "review title": "Average Performance",
+    "review text": "Does its job, but nothing exceptional. Could be better.",
+    "review display": "AverageUser789",
+    "review date": "2023-10-14",
+    "rating": 3
+  },
+  {
+    "review title": "Top-Notch Quality",
+    "review text": "Built to last and performs exceptionally well. Highly recommended.",
+    "review display": "QualitySeeker123",
+    "review date": "2023-10-13",
+    "rating": 5
+  },
+  {
+    "review title": "Not Meeting Expectations",
+    "review text": "Didn't deliver what was promised. Disappointed with the functionality.",
+    "review display": "ExpectationReviewer321",
+    "review date": "2023-10-12",
+    "rating": 2
+  },
+  {
+    "review title": "Satisfied with Purchase",
+    "review text": "Does what it claims. Overall, a good buy.",
+    "review display": "HappyCustomer2468",
+    "review date": "2023-10-11",
+    "rating": 4
+  },
+  {
+    "review title": "Fragile Build Quality",
+    "review text": "Not very sturdy. Handle with care to prevent damage.",
+    "review display": "HandleWithCare123",
+    "review date": "2023-10-10",
+    "rating": 2
+  },
+  {
+    "review title": "Innovative and Functional",
+    "review text": "Love the new approach. This product is a game-changer!",
+    "review display": "InnovationFanatic555",
+    "review date": "2023-10-09",
+    "rating": 5
+  },
+  {
+    "review title": "Fair for the Price",
+    "review text": "Reasonably priced for its features. Not exceptional but fair.",
+    "review display": "BudgetBuyer789",
+    "review date": "2023-10-08",
+    "rating": 3
+  }
+]
+  
