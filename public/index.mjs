@@ -17,6 +17,8 @@ function handleSubmit(e) {
 
     //Pass all the entered data and reveiew data into the csv maker
     csvMaker(pageIds, reviewsPerId, reviews);
+
+    alert("A CSV was successfully generated!")
 }
 
 //split the ids and add them into the pageIds array

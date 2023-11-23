@@ -7,25 +7,28 @@
 </head>
 <body>
     
+  <div class="form-container">
     <form id="form">
-        <ul>
-          <li>
-            <label>Page ids (comma separated if more than 1)
-                <input type="text" id="page-ids" name="page-ids" />
-            </label>
-            
-          </li>
-          <li>
-            <label>How many reviews per page id? 
-                <input type="number" id="total-reviews" name="total-reviews" />
-            </label>
-            
-          </li>
-          <li class="button">
-            <button type="submit">Submit</button>
-          </li>
-        </ul>
-      </form>
+      <ul class="form-list">
+        <li>
+          <label>Page ids (comma separated if more than 1)
+              <input type="text" id="page-ids" name="page-ids" />
+          </label>
+          
+        </li>
+        <li>
+          <label>How many reviews per page id? 
+              <input type="number" id="total-reviews" name="total-reviews" />
+          </label>
+          
+        </li>
+        <li class="button">
+          <button type="submit">Submit</button>
+        </li>
+      </ul>
+    </form>
+  </div>
+    
 
 
       <script type="module" src="./index.mjs"></script>
