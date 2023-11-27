@@ -49,7 +49,7 @@ function csvMaker(pageIds, reviewsPerId, reviews) {
                 } else {
                     //add values to each review array item and store them in a new array for the CSV
                     reviews[reviewCounter]["page id"] = pageIds[i];
-                    reviews[reviewCounter]["review id"] = reviewCounter;
+                    reviews[reviewCounter]["review id"] = reviewCounter + 1;
                     reviews[reviewCounter]["review status"] = "Approved";
                     reviews[reviewCounter]["review title"] = reviews[reviewCounter]["review title"].replace(",", "");
                     reviews[reviewCounter]["review text"] = reviews[reviewCounter]["review text"].replace(",", "");
