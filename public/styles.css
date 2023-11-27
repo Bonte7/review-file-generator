@@ -17,8 +17,11 @@ ul {
 }
 
 #form {
-    border: 1px solid black;
     padding-left: 0px;
+    box-shadow: 4px 4px 4px 4px #b6b6b6;
+    border-radius: 6px;
+    padding: 10px;
+    width: 700px;
 }
 
 label {
