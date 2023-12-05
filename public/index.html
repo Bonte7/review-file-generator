@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Review File Generator</title>
     <link rel="stylesheet" href="./styles.css">
+
 </head>
 <body>
 
@@ -16,17 +17,41 @@
   <div class="form-container">
     <form id="form">
       <ul class="form-list">
-        <li>
-          <label>Page IDs (comma separated if more than 1)
+        <li class="form-item">
+          <small class="required-text">*Required</small>
+          <label>
+            Page IDs (comma separated if more than 1)
               <input type="text" id="page-ids" name="page-ids" />
           </label>
           
         </li>
-        <li>
-          <label>How many reviews per page ID? 
+        <li class="form-item">
+          <small class="required-text">*Required</small>
+          <label>
+            How many reviews per page ID? 
               <input type="number" id="total-reviews" name="total-reviews" />
           </label>
           
+        </li>
+        <li>
+          <p class="random-value-label">
+            <small class="optional-text">*Optional</small>
+            Add Randomized Values:
+          </p>
+        </li>
+        <li class="checkbox-container">
+          <label class="checkbox-label">Helpful Votes
+              <input class="checkbox-item" type="checkbox" id="helpful-votes" name="helpful-votes" value="false"/>
+          </label>
+          <label class="checkbox-label">Not Helpful Votes 
+            <input class="checkbox-item" type="checkbox" id="unhelpful-votes" name="unhelpful-votes" value="false"/>
+          </label>
+          <label class="checkbox-label">Recommended
+            <input class="checkbox-item" type="checkbox" id="recommended" name="recommended" value="false"/>
+          </label>
+          <label class="checkbox-label">Review Source
+            <input class="checkbox-item" type="checkbox" id="source" name="source" value="false"/>
+          </label>
         </li>
         <li class="button">
           <button type="submit">Submit</button>
